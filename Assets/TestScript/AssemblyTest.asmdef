@@ -1,0 +1,24 @@
+{
+    "name": "AssemblyTest",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4307f53044263cf4b835bd812fc161a4",
+        "GUID:ba8c092d026123a418fb4bfb797a7bd8",
+        "GUID:d9d8635f8670c0c44ba7a8140f7ac7b9",
+        "GUID:1baf1ffff1031e948b3b228ab3453251",
+        "GUID:4d449a4732e064d26a3069f2cfd88917",
+        "GUID:09dcc9c0126b6b34ab2a877b8f2277f5",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:3ae5734e49d646442ad24f37762ebdd2",
+        "GUID:dc04f38471c3a459fb4d31124ee9127d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
